@@ -1,0 +1,33 @@
+{
+    "projects": [
+      {
+        "date": "07/12/2022",
+        "title": "TECH STARZ",
+        "description": "This is the sample website I have created using React",
+        "url": "https://github.com/Girish209/ReactProject",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "1/2/2023",
+        "title": "TODO APP",
+        "description": "This is the simple todo app that manages all the user tasks created using MERN",
+        "url": "https://github.com/Girish209/mern-project1",
+        "imgSrc": "https://icon-library.com/images/to-do-list-icon/to-do-list-icon-18.jpg"
+      },
+      {
+        "date": "15/6/2023",
+        "title": "THE GREENGROCER",
+        "description": "This is the e-commerce project made by team of 4 members as a part of my Internship at IBM skillsbuild",
+        "url": "https://github.com/Girish209/TheGreengrocer",
+        "imgSrc": "https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/57.png?itok=iesjjdzJ"
+      },
+      {
+        "date": "20/7/2023",
+        "title": "PORTFOLIO",
+        "description": "This is my personal portfolio that is a showcase of my skills",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }

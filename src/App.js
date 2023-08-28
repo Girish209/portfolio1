@@ -19,7 +19,7 @@ function App() {
       window.removeEventListener("resize",resizeRatio);
     };
   },[ratio])
-  return ratio<2.5?(
+  return ratio>2?(
     <>
       <NavResponsive menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>

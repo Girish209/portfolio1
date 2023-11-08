@@ -13,6 +13,7 @@ function App() {
   useEffect(()=>{
     const resizeRatio=()=>{
       setRatio(window.innerWidth/window.innerHeight)
+      console.log(ratio);
     };
     window.addEventListener("resize",resizeRatio);
     return ()=>{

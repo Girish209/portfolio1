@@ -26,14 +26,14 @@
         "date": "20/7/2023",
         "title": "PORTFOLIO",
         "description": "This is my personal portfolio that is a showcase of my skills",
-        "url": "/",
+        "url": "https://portfolio1-rho-coral.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
       },
       {
         "date": "10/10/2023",
         "title": "REACT CART",
         "description": "A simple implementation of cart page using React and Redux",
-        "url": "/",
+        "url": "https://github.com/Girish209/react_cart",
         "imgSrc": "https://static.vecteezy.com/system/resources/previews/004/999/463/non_2x/shopping-cart-icon-illustration-free-vector.jpg"
       }
     ]

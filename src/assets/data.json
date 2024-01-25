@@ -35,6 +35,13 @@
         "description": "A simple implementation of cart page using React and Redux",
         "url": "https://github.com/Girish209/react_cart",
         "imgSrc": "https://static.vecteezy.com/system/resources/previews/004/999/463/non_2x/shopping-cart-icon-illustration-free-vector.jpg"
+      },
+      {
+        "date": "10/10/2023",
+        "title": "TALKATIVE THREADS",
+        "description": "A simple chat app created using react and redux in frontend, django as backend and mysql db",
+        "url": "https://github.com/Girish209/chat-app",
+        "imgSrc": "https://img.freepik.com/premium-vector/chat-app-logo-sms-messenger-label-design-mobile-app-online-conversation-with-texting-message-ui-design-concept-vector-illustration_172533-1513.jpg"
       }
     ]
   }

@@ -43,7 +43,7 @@ const Services = () => {
         </motion.div>
         <motion.div className='servicebox4' whileInView={animations.whileInView} initial={animations.four}>
             <AiFillAmazonSquare/>
-            <span>Admin Development</span>
+            <span>AWS</span>
         </motion.div>
       </section>
     </div>
